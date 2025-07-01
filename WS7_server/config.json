@@ -1,0 +1,17 @@
+{
+    "port": 8000,
+    "root": "/",
+    "precision": 11,
+    "update_rate": 0.1,
+    "debug": false,
+    "channels": [
+        {"i": 0, "label": "Channel 1"},
+        {"i": 1, "label": "Channel 2"},
+        {"i": 2, "label": "Channel 3"},
+        {"i": 3, "label": "Channel 4"},
+        {"i": 4, "label": "Channel 5"},
+        {"i": 5, "label": "Channel 6"},
+        {"i": 6, "label": "Channel 7"},
+        {"i": 7, "label": "Channel 8"}
+    ]
+}

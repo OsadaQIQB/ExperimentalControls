@@ -1,0 +1,16 @@
+# NI USB-6356 Control GUI - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core GUI Framework
+PySide6>=6.0.0
+
+# Data Processing and Visualization
+numpy>=1.20.0
+matplotlib>=3.5.0
+pyqtgraph>=0.12.0
+
+# Hardware Interface
+nidaqmx>=0.6.0
+
+# Note: This package requires NI-DAQmx drivers to be installed separately
+# Download from: https://www.ni.com/en-us/support/downloads/drivers/download.ni-daqmx.html

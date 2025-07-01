@@ -1,0 +1,26 @@
+{
+  "line_map": {
+    "Trigger": 0,
+    "Laser1": 1,
+    "Laser2": 2
+  },
+  "pulses": [
+    {
+      "name": "Trigger",
+      "start": 0.0,
+      "duration": 9.999999999999999e-06
+    },
+    {
+      "name": "Laser2",
+      "start": 0.00010999999999999999,
+      "duration": 9.999999999999999e-06
+    },
+    {
+      "name": "Laser1",
+      "start": 9.999999999999999e-05,
+      "duration": 1e-06
+    }
+  ],
+  "sample_rate": 10000000,
+  "total_time": 0.0002
+}

@@ -1,0 +1,16 @@
+# WS7 Wavelength Meter Server - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.19.0
+
+# Built-in modules (no installation required):
+# - argparse (Python 3.2+)
+# - ctypes (built-in)
+# - os (built-in)
+# - sys (built-in) 
+# - random (built-in)
+# - time (built-in)
+# - json (built-in)
+# - socket (built-in)
+# - threading (built-in)
