@@ -1,0 +1,74 @@
+[
+  {
+    "device": "97000002",
+    "channel": 1,
+    "axis_name": "Microscope H",
+    "jog_step": "100",
+    "goto": "100",
+    "auto_update": true
+  },
+  {
+    "device": "97000002",
+    "channel": 2,
+    "axis_name": "Microscope V",
+    "jog_step": "100",
+    "goto": "200",
+    "auto_update": true
+  },
+  {
+    "device": "97000002",
+    "channel": 3,
+    "axis_name": "Laser //",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  },
+  {
+    "device": "97000002",
+    "channel": 4,
+    "axis_name": "Laser ⊥",
+    "jog_step": "100",
+    "goto": "400",
+    "auto_update": true
+  },
+  {
+    "device": "74001138",
+    "channel": 1,
+    "axis_name": "Microscope focus",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  },
+  {
+    "device": "97251551",
+    "channel": 1,
+    "axis_name": "Coupler θ",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  },
+  {
+    "device": "97251551",
+    "channel": 2,
+    "axis_name": "Coupler φ",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  },
+  {
+    "device": "97251551",
+    "channel": 3,
+    "axis_name": "Coupler X",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  },
+  {
+    "device": "97251551",
+    "channel": 4,
+    "axis_name": "Coupler Y",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  }
+]

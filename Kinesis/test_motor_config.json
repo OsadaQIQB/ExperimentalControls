@@ -1,0 +1,34 @@
+[
+  {
+    "device": "97251312",
+    "channel": 1,
+    "axis_name": "Axis 1",
+    "jog_step": "100",
+    "goto": "100",
+    "auto_update": true
+  },
+  {
+    "device": "97251312",
+    "channel": 2,
+    "axis_name": "Axis 2",
+    "jog_step": "100",
+    "goto": "200",
+    "auto_update": true
+  },
+  {
+    "device": "97251312",
+    "channel": 3,
+    "axis_name": "Axis 3",
+    "jog_step": "100",
+    "goto": "",
+    "auto_update": true
+  },
+  {
+    "device": "97251312",
+    "channel": 4,
+    "axis_name": "Axis 4",
+    "jog_step": "100",
+    "goto": "400",
+    "auto_update": true
+  }
+]

@@ -1,0 +1,16 @@
+# Thorlabs Kinesis Motor Controller Requirements
+# Core dependencies for the motor control application
+
+# Python.NET - Interface to Thorlabs .NET API
+pythonnet>=3.0.0
+
+# PySide6 - GUI framework
+PySide6>=6.5.0
+
+# Optional dependencies for alternative control methods
+# pylablib>=1.4.0  # Uncomment if using pylablib-based control
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0

@@ -1,0 +1,15 @@
+1. Install kinesis from Thorlabs 
+https://www.thorlabs.co.jp/software_pages/ViewSoftwarePage.cfm?Code=Motion_Control&viewtab=0
+Also contianed in the same directory as this .txt file.
+
+2. Download files in the following repository
+https://github.com/Thorlabs/Motion_Control_Examples/tree/main/Python/KCube/KIM101
+Also contianed in the same directory as this .txt file.
+
+3. Execute "py -m pip install pythonnet" in your python environment
+
+4. Now "kim101_pythonnet.py" will work.  Uncomment Line 88 for open loop operation.
+
+5. Execute "py -m pip install pylablib" in your python environment
+
+6. Now "KIM101_pylablib_test.py" will work.
